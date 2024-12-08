@@ -1,4 +1,4 @@
-package com.mycompany.plugins.example;
+package com.amisaelgonzalez.plugins.xtreme-push;
 
 import android.util.Log;
 
